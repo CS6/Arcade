@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./Arcade/static/css/main.79ced3c1.chunk.css",
-    "main.js": "./Arcade/static/js/main.539f8bad.chunk.js",
-    "main.js.map": "./Arcade/static/js/main.539f8bad.chunk.js.map",
+    "main.js": "./Arcade/static/js/main.be1bf5b9.chunk.js",
+    "main.js.map": "./Arcade/static/js/main.be1bf5b9.chunk.js.map",
     "runtime-main.js": "./Arcade/static/js/runtime-main.74d92baf.js",
     "runtime-main.js.map": "./Arcade/static/js/runtime-main.74d92baf.js.map",
     "static/js/2.cc0bdf81.chunk.js": "./Arcade/static/js/2.cc0bdf81.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.74d92baf.js",
     "static/js/2.cc0bdf81.chunk.js",
     "static/css/main.79ced3c1.chunk.css",
-    "static/js/main.539f8bad.chunk.js"
+    "static/js/main.be1bf5b9.chunk.js"
   ]
 }
