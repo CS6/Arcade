@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./Arcade/static/css/main.79ced3c1.chunk.css",
-    "main.js": "./Arcade/static/js/main.be1bf5b9.chunk.js",
-    "main.js.map": "./Arcade/static/js/main.be1bf5b9.chunk.js.map",
-    "runtime-main.js": "./Arcade/static/js/runtime-main.74d92baf.js",
-    "runtime-main.js.map": "./Arcade/static/js/runtime-main.74d92baf.js.map",
-    "static/js/2.cc0bdf81.chunk.js": "./Arcade/static/js/2.cc0bdf81.chunk.js",
-    "static/js/2.cc0bdf81.chunk.js.map": "./Arcade/static/js/2.cc0bdf81.chunk.js.map",
-    "index.html": "./Arcade/index.html",
-    "static/css/main.79ced3c1.chunk.css.map": "./Arcade/static/css/main.79ced3c1.chunk.css.map",
-    "static/js/2.cc0bdf81.chunk.js.LICENSE.txt": "./Arcade/static/js/2.cc0bdf81.chunk.js.LICENSE.txt",
-    "static/media/neko.png": "./Arcade/static/media/neko.a668eed9.png"
+    "main.css": "/static/css/main.79ced3c1.chunk.css",
+    "main.js": "/static/js/main.be1bf5b9.chunk.js",
+    "main.js.map": "/static/js/main.be1bf5b9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f6e0af96.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f6e0af96.js.map",
+    "static/js/2.cc0bdf81.chunk.js": "/static/js/2.cc0bdf81.chunk.js",
+    "static/js/2.cc0bdf81.chunk.js.map": "/static/js/2.cc0bdf81.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.79ced3c1.chunk.css.map": "/static/css/main.79ced3c1.chunk.css.map",
+    "static/js/2.cc0bdf81.chunk.js.LICENSE.txt": "/static/js/2.cc0bdf81.chunk.js.LICENSE.txt",
+    "static/media/neko.png": "/static/media/neko.a668eed9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.74d92baf.js",
+    "static/js/runtime-main.f6e0af96.js",
     "static/js/2.cc0bdf81.chunk.js",
     "static/css/main.79ced3c1.chunk.css",
     "static/js/main.be1bf5b9.chunk.js"
